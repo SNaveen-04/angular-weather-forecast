@@ -1,0 +1,17 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(233, 238, 239);
+}
+
+button {
+    padding: 10px 20px;
+    background-color: rgba(33, 142, 215, 0.562);
+    border-radius: 25px;
+    border: 1px solid rgb(203, 202, 202);
+    outline: none;
+}
